@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "常用字書",
+    "items": [
+      {
+        "id": "1001",
+        "name": "漢語大詞典",
+        "path": "assets/dict/common/hy.fishdict"
+      },
+      {
+        "id": "1002",
+        "name": "國語辭典",
+        "path": "assets/dict/common/gy.fishdict"
+      },
+      {
+        "id": "1003",
+        "name": "康熙字典",
+        "path": "assets/dict/common/kx.fishdict"
+      },
+      {
+        "id": "1004",
+        "name": "說文解字",
+        "path": "assets/dict/common/sw.fishdict"
+      },
+      {
+        "id": "1005",
+        "name": "成語典",
+        "path": "assets/dict/common/cy.fishdict"
+      },
+      {
+        "id": "1006",
+        "name": "道教大辭典",
+        "path": "assets/dict/common/dj.fishdict"
+      },
+      {
+        "id": "1009",
+        "name": "網·字統網",
+        "type": "web",
+        "path": "https://zi.tools/zi/${word}"
+      },
+      {
+        "id": "1012",
+        "name": "網·百度",
+        "type": "web",
+        "path": "https://www.baidu.com/s?wd=${word}"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "佛學辭典",
+    "items": [
+      {
+        "id": "2001",
+        "name": "佛學大辭典",
+        "path": "assets/dict/fo/fxdcd.fishdict"
+      },
+      {
+        "id": "2002",
+        "name": "佛光大辭典",
+        "path": "assets/dict/fo/fgdcd.fishdict"
+      },
+      {
+        "id": "2003",
+        "name": "法相辭典",
+        "path": "assets/dict/fo/fxcd.fishdict"
+      },
+      {
+        "id": "2004",
+        "name": "佛學常見詞彙",
+        "path": "assets/dict/fo/fxcjch.fishdict"
+      },
+      {
+        "id": "2005",
+        "name": "三藏法數",
+        "path": "assets/dict/fo/szfs.fishdict"
+      },
+      {
+        "id": "2006",
+        "name": "五燈會元",
+        "path": "assets/dict/fo/wdhy.fishdict"
+      },
+      {
+        "id": "2007",
+        "name": "佛學次第統編",
+        "path": "assets/dict/fo/fxcdtb.fishdict"
+      },
+      {
+        "id": "2008",
+        "name": "翻譯名義集",
+        "path": "assets/dict/fo/fymyj.fishdict"
+      },
+      {
+        "id": "2009",
+        "name": "網·百度",
+        "type": "web",
+        "path": "https://www.baidu.com/s?wd=${word}"
+      }
+    ]
+  }
+]
