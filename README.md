@@ -49,9 +49,3 @@
 > 支付寶
 
 ![](https://maiyuren.com/dict/assets/img/zfb.dcab600.png)
-
-> 銀聯卡
-
-賬號：6214850202162084
-銀行：招商银行
-姓名：林庆昌
